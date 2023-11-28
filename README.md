@@ -13,9 +13,9 @@
 <b>  Variables </b>
 </h1>
 
-๏ `API_ID` » get it from my.telegram.org
-๏ `API_HASH` » get it from my.telegram.org
-๏ `BOT_TOKEN` » get it by [@BotFather](https://t.me/botfather)
-๏ `STRING_SESSION` » [Click here](https://t.me/devsX_community)
-๏ `MONGO_DB_URI` » get it from [mongodb.com](https://mongodb.com)
-๏ `LOG_GROUP_ID` » get it by [ click here](#string)
+-๏ `API_ID` » get it from my.telegram.org
+-๏ `API_HASH` » get it from my.telegram.org
+-๏ `BOT_TOKEN` » get it by [@BotFather](https://t.me/botfather)
+-๏ `STRING_SESSION` » [Click here](https://t.me/devsX_community)
+-๏ `MONGO_DB_URI` » get it from [mongodb.com](https://mongodb.com)
+-๏ `LOG_GROUP_ID` » get it by [ click here](#string)
