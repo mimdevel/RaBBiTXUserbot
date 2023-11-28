@@ -21,3 +21,6 @@
 - `LOG_GROUP_ID` » get it by [ click here](#string)
 
 ## STRING_SESSION 
+## LOG_GROUP_ID
+## HEROKU DEPLOY
+## LOCCALLY DEPLOY
