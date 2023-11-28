@@ -9,7 +9,9 @@
   <b> ๏ яαввιтχ υѕєявσт ιѕ тнє  fαѕтєѕт, ѕмσσтнєѕт αи∂ ℓαg fяєє υѕєявσт σи тєℓєgяαм. ωιтн ¢σσℓ мσ∂υℓєѕ вαѕє∂ σи ρуяσgяαм ๏</b>
 </h6>
 
-<b> Variables </b>
+<h1 align="center">
+<b> ⚡ Variables </b>
+</h1>
 
 - `API_ID` = get it from my.telegram.org
 - `API_HASH` = get it from my.telegram.org
