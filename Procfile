@@ -1,1 +1,1 @@
-RaBBiTX: bash RaBBiT
+RaBBiTX: python3 -m bunny
