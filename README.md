@@ -30,6 +30,8 @@ You can access the API_HASH via `my.telegram.org` For this just go to `my.telegr
 [RaBBiTXUserBot](https://github.com/ITZ-RaBBiT/RaBBiTXUserBot) requires [pyrogram](https://pyrogram.org) v2 session 
 And we can generate the [program](https://pyrogram.org) v2 session by running `python3  session.py` in the [Heroku](https://dashboard.heroku.com) console.
 
+## BOT_TOKEN
+ you can get it from [@BotFather](https://t.me/botfather) on telegram For this you have to `/start` the bot and create `/newbot` and put its token in bot_token.
 ## LOG_GROUP_ID
 ## HEROKU DEPLOY
 ## LOCCALLY DEPLOY
