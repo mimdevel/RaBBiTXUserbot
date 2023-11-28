@@ -20,7 +20,10 @@
 - `MONGO_DB_URI` » get it from [mongodb.com](https://mongodb.com)
 - `LOG_GROUP_ID` » get it by [ click here](#string)
 
-## STRING_SESSION 
+## STRING_SESSION
+[RaBBiTXUserBot](https://github.com/ITZ-RaBBiT/RaBBiTXUserBot) requires [pyrogram](https://pyrogram.org) v2 session 
+And we can generate the [program](https://pyrogram.org) v2 session by running `python3  session.py` in the [Heroku](https://dashboard.heroku.com) console.
+
 ## LOG_GROUP_ID
 ## HEROKU DEPLOY
 ## LOCCALLY DEPLOY
