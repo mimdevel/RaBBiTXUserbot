@@ -7,7 +7,7 @@ from pyrogram import Client, enums
 admins_in_chat = {}
 
 def restart():
-    os.execvp(sys.executable, [sys.executable, "bash", "RaBBiT"])
+    os.execvp(sys.executable, [sys.executable, "-m", "bunny"])
 
 
 async def list_admins(client: Client, chat_id: int):
