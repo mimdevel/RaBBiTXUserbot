@@ -13,12 +13,12 @@
 <b>  Variables </b>
 </h1>
 
-- `API_ID` » get it from my.telegram.org
-- `API_HASH` » get it from my.telegram.org
-- `BOT_TOKEN` » get it by [@BotFather](https://t.me/botfather)
-- `STRING_SESSION` » [Click here](#STRING_SESSION)
-- `MONGO_DB_URI` » get it from [mongodb.com](https://mongodb.com)
-- `LOG_GROUP_ID` » get it by [ click here](#string)
+- `API_ID` » [click here](#API_ID)
+- `API_HASH` » [click here](#API_HASH)
+- `BOT_TOKEN` » [click here](#BOT_TOKEN)
+- `STRING_SESSION` » [click here](#STRING_SESSION)
+- `MONGO_DB_URI` » [click here](#MONGO_DB_URI)
+- `LOG_GROUP_ID` » [click here](#LOG_GROUP_ID)
 
 ## STRING_SESSION
 [RaBBiTXUserBot](https://github.com/ITZ-RaBBiT/RaBBiTXUserBot) requires [pyrogram](https://pyrogram.org) v2 session 
