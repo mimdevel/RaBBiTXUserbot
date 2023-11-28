@@ -23,6 +23,9 @@
 ## API_ID 
 You can access the API_ID via `my.telegram.org` For this just go to `my.telegram.org` and  enter your phone no. And pass and click on `next` then click on `development` and you will get your API_ID.
 
+## API_HASH
+You can access the API_HASH via `my.telegram.org` For this just go to `my.telegram.org` and  enter your phone no. And pass and click on `next` then click on `development` and you will get your API_HASH.
+
 ## STRING_SESSION
 [RaBBiTXUserBot](https://github.com/ITZ-RaBBiT/RaBBiTXUserBot) requires [pyrogram](https://pyrogram.org) v2 session 
 And we can generate the [program](https://pyrogram.org) v2 session by running `python3  session.py` in the [Heroku](https://dashboard.heroku.com) console.
