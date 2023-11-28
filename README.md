@@ -9,3 +9,8 @@
   <b> ๏ яαввιтχ υѕєявσт ιѕ тнє  fαѕтєѕт, ѕмσσтнєѕт αи∂ ℓαg fяєє υѕєявσт σи тєℓєgяαм. ωιтн ¢σσℓ мσ∂υℓєѕ вαѕє∂ σи ρуяσgяαм ๏</b>
 </h6>
 
+## Variables
+
+- `API_ID` = get it from my.telegram.org
+- `API_HASH` = get it from my.telegram.org
+- `BOT_TOKEN` = get it by [@BotFather](https://t.me/botfather)
