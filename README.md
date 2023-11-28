@@ -38,5 +38,9 @@ You can get it from [mongodb.com](https://mongodb.com)
 if you want you can use this mongodb too » `mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority`
 
 ## LOG_GROUP_ID
+u can get it by making group on telegram and fill That's group id in LOG_GROUP_ID
+`Note` :  Your assistant bot should be `promoted` in Logger Group
+
+
 ## HEROKU DEPLOY
 ## LOCCALLY DEPLOY
