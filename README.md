@@ -45,6 +45,16 @@ u can get it by making group on telegram and fill That's group id in LOG_GROUP_I
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/RaBBiTXUserBot)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/RaBBiTXupdates)
 
+## NOTE:
+> We won't be responsible for any kind of ban due to this bot.
+> It's your concern if you spam and gets your account banned.
+> Forking Repo is fine. But if you edit something we will not provide any help.
+> In short, Fork At Your Own Risk
+________________________________
+
+## CREDITS
+>               [@ITZ-RaBBiT](https://github.com/ITZ-RaBBiT)
+>               [@GeekTyper](https://github.com/Geektype)
 
 ## HEROKU DEPLOY
 ## LOCCALLY DEPLOY
