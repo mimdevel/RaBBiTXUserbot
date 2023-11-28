@@ -41,6 +41,10 @@ if you want you can use this mongodb too » `mongodb+srv://Krishna:pss968048@clu
 u can get it by making group on telegram and fill That's group id in LOG_GROUP_ID
 `Note` :  Your assistant bot should be `promoted` in Logger Group
 
+## SUPPORTS
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/RaBBiTXUserBot)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/RaBBiTXupdates)
+
 
 ## HEROKU DEPLOY
 ## LOCCALLY DEPLOY
