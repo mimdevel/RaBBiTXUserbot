@@ -20,6 +20,11 @@
 - `MONGO_DB_URI` » [click here](#MONGO_DB_URI)
 - `LOG_GROUP_ID` » [click here](#LOG_GROUP_ID)
 
+## HEROKU DEPLOYMENT
+
+## LOCCALLY DEPLOYMENT
+
+
 ## API_ID 
 You can access the API_ID via `my.telegram.org` For this just go to `my.telegram.org` and  enter your phone no. And pass and click on `next` then click on `development` and you will get your API_ID.
 
@@ -53,8 +58,5 @@ u can get it by making group on telegram and fill That's group id in LOG_GROUP_I
 ________________________________
 
 ## CREDITS
->               [@ITZ-RaBBiT](https://github.com/ITZ-RaBBiT)
->               [@GeekTyper](https://github.com/Geektype)
-
-## HEROKU DEPLOY
-## LOCCALLY DEPLOY
+>               MrRaBBiT
+>               Pratham
