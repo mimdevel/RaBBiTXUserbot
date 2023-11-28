@@ -20,6 +20,9 @@
 - `MONGO_DB_URI` » [click here](#MONGO_DB_URI)
 - `LOG_GROUP_ID` » [click here](#LOG_GROUP_ID)
 
+## API_ID 
+You can access the API_ID via `my.telegram.org` For this just go to `my.telegram.org` and  enter your phone no. And pass and click on `next` then click on `development` and you will get your API_ID.
+
 ## STRING_SESSION
 [RaBBiTXUserBot](https://github.com/ITZ-RaBBiT/RaBBiTXUserBot) requires [pyrogram](https://pyrogram.org) v2 session 
 And we can generate the [program](https://pyrogram.org) v2 session by running `python3  session.py` in the [Heroku](https://dashboard.heroku.com) console.
