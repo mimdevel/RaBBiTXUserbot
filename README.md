@@ -35,7 +35,7 @@ And we can generate the [program](https://pyrogram.org) v2 session by running `p
 
 ## MONGO_DB_URI
 You can get it from [mongodb.com](https://mongodb.com) 
-if you want you can use this mongodb too -`mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority`
+if you want you can use this mongodb too » `mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority`
 
 ## LOG_GROUP_ID
 ## HEROKU DEPLOY
