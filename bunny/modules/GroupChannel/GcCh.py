@@ -15,14 +15,14 @@ async def gcch(client: Client, message: Message):
     group_name = " ".join(split)
     bunny = await edit_or_reply(message, "`Processing...`")
     fuk = "ʀᴀʙʙɪᴛx ᴜsᴇʀs" 
-    if group_type == "group": 
+    if group_type == "gc": 
         _id = await client.create_supergroup(group_name, fuk)
         link = await client.get_chat(_id["id"])
         await bunny.edit(
             f"__successfully created your Group as: [{group_name}]({link['invite_link']})__",
             disable_web_page_preview=True,
         )
-    elif group_type == "channel":  
+    elif group_type == "ch":  
         _id = await client.create_channel(group_name, fuk)
         link = await client.get_chat(_id["id"])
         await bunny.edit(
