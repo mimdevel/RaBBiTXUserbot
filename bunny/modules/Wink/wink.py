@@ -5,7 +5,7 @@ from pyrogram import Client, filters
 from pyrogram.types import *
 from pyrogram.types import Message
 from config import HANDLER as hl
-from powers.powers.basic import edit_or_reply, get_text
+from bunny.powers.basic import edit_or_reply, get_text
 from bunny.core.clients import bunny as Client
 
 @Client.on_message(filters.command("wink", hl) & filters.me)
