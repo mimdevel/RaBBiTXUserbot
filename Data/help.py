@@ -1,13 +1,15 @@
 from config import HANDLER as hl
 
 admins_msg = f"""
-๏ `{hl}promote` »
-๏ `{hl}demote` »
-๏ `{hl}ban` »
-๏ `{hl}unban` »
-๏ `{hl}mute` »
-๏ `{hl}unmute` »
-๏ `{hl}setgcpfp` »
+๏ `{hl}promote` » ᴛᴏ ᴘʀᴏᴍᴏᴛᴇ ᴀɴʏᴏɴᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+๏ `{hl}demote` » ᴛᴏ ᴅᴇᴍᴏᴛᴇ ᴀɴʏᴏɴᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+๏ `{hl}ban` » ᴛᴏ ʙᴀɴ ᴀɴʏᴏɴᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+๏ `{hl}unban` » ᴛᴏ ᴜɴʙᴀɴ ᴀɴʏᴏɴᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+๏ `{hl}mute` » ᴛᴏ ᴍᴜᴛᴇ ᴀɴʏᴏɴᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+๏ `{hl}unmute` » ᴛᴏ ᴜɴᴍᴜᴛᴇ ᴀɴʏᴏɴᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+๏ `{hl}setgcpfp` » ᴛᴏ sᴇᴛ ɢʀᴏᴜᴘ ᴘғᴘ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+๏ `{hl}pin` » ᴛᴏ ᴘɪɴ ᴀɴʏ ᴍᴇssᴀɢᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ
+๏ `{hl}unpin` » ᴛᴏ ᴜɴᴘɪɴ ᴀɴʏ ᴍᴇssᴀɢᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 """
 
 vc_msg = f"""
