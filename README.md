@@ -75,7 +75,7 @@ ________________________________
 > In short, Fork At Your Own Risk
 ________________________________
 ## PLUGINS
-# This is an example of a simple plugin for RABBITXUSERBOT. 
+# This is an example of a simple plugin for RaBBiTXUserBot 
 
 ```python3
 from pyrogram import Client, filters
