@@ -1,4 +1,5 @@
 from config import HANDLER as hl
+
 admins_msg = f"""
 ๏ `{hl}promote` 
 ๏ `{hl}demote`
@@ -88,11 +89,36 @@ id_msg = f"""
 """
 
 fun_msg = f"""
-๏ `{hl}
-๏ `{hl}
-๏ `{hl}
+๏ `{hl}hug`
+๏ `{hl}wink`
+๏ `{hl}fuck`
+"""
 
+create_msg = f"""
+๏ `{hl}create group RaBBiTX`
+๏ `{hl}create channel RaBBiTX`
+"""
 
+invite_msg = f"""
+๏ `{hl}invitelink`
+๏ `{hl}invite`
+๏ `{hl}inviteall
+"""
+
+clone_msg = f"""
+๏ `{hl}clone`
+๏ `{hl}revert`
+"""
+
+extra_msg = f"""
+๏ `{hl}ping`
+๏ `{hl}alive`
+"""
+
+pm_msg = f"""
+๏ `{hl}pmpermit on`
+๏ `{hl}pmpermit off`
+"""
 
 
 
