@@ -20,12 +20,10 @@
 - `STRING_SESSION` » [click here](#STRING_SESSION)
 - `MONGO_DB_URI` » [click here](#MONGO_DB_URI)
 - `LOG_GROUP_ID` » [click here](#LOG_GROUP_ID)
-
+________________________________
 
 ## HEROKU DEPLOYMENT
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ITZ-RaBBiT/RaBBiTXUserBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-________________________________
-
 
 ## API_ID 
 You can access the API_ID via `my.telegram.org` For this just go to `my.telegram.org` and  enter your phone no. And pass and click on `next` then click on `development` and you will get your API_ID.
