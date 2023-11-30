@@ -23,20 +23,20 @@ telegraph_msg = f"""
 own_msg = f"""
 ๏ `{hl}block` » ᴛᴏ ʙʟᴏᴄᴋ ᴀɴʏᴏɴᴇ.
 ๏ `{hl}unblock` » ᴛᴏ ᴜɴʙʟᴏᴄᴋ ᴀɴʏᴏɴᴇ.
-๏ `{hl}setname` »
+๏ `{hl}setname` » ᴛᴏ sᴇᴛ ɴᴀᴍᴇ ᴏғ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ.
 """
 
 sangmeta_msg = f"""
-๏ `{hl}sg` »
+๏ `{hl}sg` » ᴛᴏ ᴄʜᴇᴄᴋ ɴᴀᴍᴇ ʜɪsᴛᴏʀʏ ᴏғ ᴀɴʏᴏɴᴇ.
 """
 
 join_msg = f"""
-๏ `{hl}join` »
-๏ `{hl}leave` »
+๏ `{hl}join` » ᴛᴏ ᴊᴏɪɴ ᴀɴʏ ɢʀᴏᴜᴘ ʙʏ ᴛʜᴀᴛ's ɢʀᴏᴜᴘ ᴜsᴇʀɴᴀᴍᴇ.
+๏ `{hl}leave` » ʟᴇᴀᴠᴇ ᴀɴʏ ɢʀᴏᴜᴘ.
 """
 
 quotly_msg = f"""
-๏ `{hl}q` »
+๏ `{hl}q` » 
 ๏ `{hl}ani` »
 """
 
