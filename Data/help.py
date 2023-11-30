@@ -36,88 +36,87 @@ join_msg = f"""
 """
 
 quotly_msg = f"""
-๏ `{hl}q` » 
-๏ `{hl}ani` »
+๏ `{hl}q` » ᴛᴏ ᴍᴀᴋᴇ ǫᴜᴏᴛʟʏ ᴏғ ᴀɴʏ ᴍᴇssᴀɢᴇs.
+๏ `{hl}ani` » ᴛᴏ ᴍᴀᴋᴇ ᴀɴɪᴍᴀᴛɪᴏɴ ǫᴜᴏᴛʟʏ ᴏғ ᴀɴʏ ᴍᴇssᴀɢᴇs.
 """
 
 web_msg = f"""
-๏ `{hl}webss` »
+๏ `{hl}webss` » ᴛᴏ ɢᴇᴛ ᴀɴʏ ᴡᴇʙsɪᴛᴇ sᴄʀᴇᴇɴsʜᴏᴛ.
 """
 
 twitter_msg = f"""
-๏ `{hl}trupm` »
-๏ `{hl}username` »
+๏ `{hl}trupm` » ᴛᴏ ᴄʀᴇᴀᴛᴇ ғᴀᴋᴇ ᴛᴡᴇᴇᴛ ᴘɪᴄ ᴏғ ᴛʀᴜᴍᴘ.
+๏ `{hl}username` » ᴛᴏ ᴄʀᴇᴀᴛᴇ ғᴀᴋᴇ ᴛᴡᴇᴇᴛ ʙʏ ᴜsᴇʀɴᴀᴍᴇ.
 """
 
 secret_msg = f"""
-๏ `{hl}wow` »
+๏ `{hl}wow` » ᴛᴏ sᴀᴠᴇ ᴀɴʏ ᴛɪᴍᴇʀ ᴘɪᴄ ᴘᴇʀᴍᴀɴᴇɴᴛʟʏ.
 """
 
 paste_msg = f"""
-๏ `{hl}paste` »
+๏ `{hl}paste` » ᴛᴏ ᴘᴀsᴛᴇ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴏʀ ᴄᴏᴅᴇs ɪɴ ᴘɪᴄ.
 """
 
 fake_msg = f"""
-๏ `{hl}ftyping` »
-๏ `{hl}fvideo` »
-๏ `{hl}fdocuments` »
-๏ `{hl}faudio` »
-๏ `{hl}fround` »
-๏ `{hl}flocation` »
+๏ `{hl}ftyping` » ғᴀᴋᴇ ᴛʏᴘɪɴɢ ᴀᴄᴛɪᴏɴ.
+๏ `{hl}fvideo` » ғᴀᴋᴇ ᴠɪᴅᴇᴏ sᴇɴᴅɪɴɢ ᴀᴄᴛɪᴏɴ.
+๏ `{hl}fdocuments` » ғᴀᴋᴇ ᴅᴏᴄᴜᴍᴇɴᴛs sᴇɴᴅɪɴɢ ᴀᴄᴛɪᴏɴ.
+๏ `{hl}faudio` » ғᴀᴋᴇ ᴀᴜᴅɪᴏ sᴇɴᴅɪɴɢ ᴀᴄᴛɪᴏɴ.
+๏ `{hl}flocation` » ғᴀᴋᴇ ʟᴏᴄᴀᴛɪᴏɴ sᴇɴᴅɪɴɢ ᴀᴄᴛɪᴏɴ.
 """
 
 mantion_msg = f"""
-๏ `{hl}tagall` »
+๏ `{hl}tagall` » ᴛᴏ ᴛᴀɢ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.
 """
 
 stats_msg = f"""
-๏ `{hl}mystats` »
+๏ `{hl}mystats` » ᴛᴏ ɢᴇᴛ ʏᴏᴜ ᴀᴄᴄᴏᴜɴᴛ sᴛᴀᴛs.
 """
 
 carbon_msg = f"""
-๏ `{hl}carbon` »
+๏ `{hl}carbon` » ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴄᴀʀʙᴏɴ ᴏғ ᴀɴʏ ᴍᴇssᴀɢᴇs.
 """
 
 google_msg = f"""
-๏ `{hl}google` »
+๏ `{hl}google` » ᴛᴏ sᴇᴀʀᴄʜ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴏɴ ɢᴏᴏɢʟᴇ.
 """
 
 eval_msg = f"""
-๏ `{hl}eval` »
+๏ `{hl}eval` » ᴛᴏ ʀᴜɴ ᴘʏᴛʜᴏɴ ᴄᴏᴅᴇs.
 """
 
 id_msg = f"""
-๏ `{hl}id` »
+๏ `{hl}id` » ᴛᴏ ɢᴇᴛ ᴜsᴇʀ/ᴄʜᴀᴛ ɪᴅ.
 """
 
 fun_msg = f"""
-๏ `{hl}hug` »
-๏ `{hl}wink` »
-๏ `{hl}fuck` »
+๏ `{hl}hug` » ɪᴛ's ғᴜɴ ᴄʜᴇᴄᴋ ʙʏ ᴜʀsᴇʟғ.
+๏ `{hl}wink` » ɪᴛ's ғᴜɴ ᴄʜᴇᴄᴋ ʙʏ ᴜʀsᴇʟғ.
+๏ `{hl}fuck` » ɪᴛ's ғᴜɴ ᴄʜᴇᴄᴋ ʙʏ ᴜʀsᴇʟғ.
 """
 
 create_msg = f"""
-๏ `{hl}create group RaBBiTX` »
-๏ `{hl}create channel RaBBiTX` »
+๏ `{hl}create group RaBBiTX` » ᴛᴏ ᴄʀᴇᴀᴛᴇ ɢʀᴏᴜᴘ.
+๏ `{hl}create channel RaBBiTX` » ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴄʜᴀɴɴᴇʟ.
 """
 
 invite_msg = f"""
-๏ `{hl}invitelink` »
-๏ `{hl}invite` »
-๏ `{hl}inviteall »
+๏ `{hl}invitelink` » ᴛᴏ ɢᴇᴛ ᴀɴʏ ɢʀᴏᴜᴘ ɪɴᴠɪᴛᴇ ʟɪɴᴋ.
+๏ `{hl}invite` » ᴛᴏ ɪɴᴠɪᴛᴇ ᴍᴇᴍʙᴇʀ ʙʏ ᴜsᴇʀɴᴀᴍᴇ.
+๏ `{hl}inviteall » ᴛᴏ ɪɴᴠɪᴛᴇ ᴀʟʟ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴀɴᴏᴛʜᴇʀ ɢʀᴏᴜᴘ.
 """
 
 clone_msg = f"""
-๏ `{hl}clone` »
-๏ `{hl}revert` »
+๏ `{hl}clone` » ᴛᴏ ᴄʟᴏɴᴇ ᴀɴʏ ᴀᴄᴄᴏᴜɴᴛ.
+๏ `{hl}revert` » ᴛᴏ ʀᴇsᴇᴛ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴀғᴛᴇʀ ᴄʟᴏɴɪɴɢ.
 """
 
 extra_msg = f"""
-๏ `{hl}ping` »
-๏ `{hl}alive` »
+๏ `{hl}ping` » ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ ᴜᴘᴛɪᴍᴇ ᴀɴᴅ ᴘɪɴɢ.
+๏ `{hl}alive` » ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ.
 """
 
 pm_msg = f"""
-๏ `{hl}pmpermit on` »
-๏ `{hl}pmpermit off` »
+๏ `{hl}pmpermit on` » ᴛᴏ ᴏɴ ᴘᴍᴘᴇʀᴍɪᴛ.
+๏ `{hl}pmpermit off` » ᴛᴏ ᴏғғ ᴘᴍᴘᴇʀᴍɪᴛ.
 """
