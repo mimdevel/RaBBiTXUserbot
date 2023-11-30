@@ -74,6 +74,18 @@ ________________________________
 
 > In short, Fork At Your Own Risk
 ________________________________
+## PLUGINS
+# This is an example of a simple plugin for RABBITXUSERBOT. 
+
+```python3
+from pyrogram import Client, filters
+from bunny.core.clients import bunny
+from config import HANDLER as hl
+
+@bunny.on_message(filters.command("ping", hl ))
+async def ping(_, message):
+    await message.reply_text("Pong!")
+```
 
 ## COMMANDS 
 ⚡ [click here](https://github.com/ITZ-RaBBiT/RaBBiTXUserBot/blob/main/Data/help.py) for see all commands of RaBBiTXUserBot
