@@ -8,7 +8,6 @@
 <h6 align="center">
   <b> ๏ яαввιтχ υѕєявσт ιѕ тнє  fαѕтєѕт, ѕмσσтнєѕт αи∂ ℓαg fяєє υѕєявσт σи тєℓєgяαм. ωιтн ¢σσℓ мσ∂υℓєѕ вαѕє∂ σи ρуяσgяαм ๏</b>
 </h6>
-________________________________
 
 
 <h1 align="center">
@@ -21,7 +20,6 @@ ________________________________
 - `STRING_SESSION` » [click here](#STRING_SESSION)
 - `MONGO_DB_URI` » [click here](#MONGO_DB_URI)
 - `LOG_GROUP_ID` » [click here](#LOG_GROUP_ID)
-________________________________
 
 
 ## HEROKU DEPLOYMENT
@@ -71,17 +69,20 @@ ________________________________
 
 ## NOTE:
 > We won't be responsible for any kind of ban due to this bot.
+
 > It's your concern if you spam and gets your account banned.
+
 > Forking Repo is fine. But if you edit something we will not provide any help.
+
 > In short, Fork At Your Own Risk
 ________________________________
 
-## COMMANDS
- [click here](https://github.com/ITZ-RaBBiT/RaBBiTXUserBot/blob/main/Data/help.py)
+## COMMANDS 
+⚡ [click here](https://github.com/ITZ-RaBBiT/RaBBiTXUserBot/blob/main/Data/help.py) for see all commands of RaBBiTXUserBot
 
 ________________________________
  
-## CREDITS
+## CREDITS 
 >               MrRaBBiT
 ________________________________
 
